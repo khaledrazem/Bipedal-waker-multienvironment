@@ -1,0 +1,2 @@
+# Bipedal-waker-multienvironment
+this project covers the methodologies used to create a DDPG that will be trained in two bipedal walker environments with  varying difficulty and then tested interchangeably between the environments. Additionally, an  evaluation is conducted to determine that training a model to perform a simple mechanic in a  challenging environment provides better generality in all difficulties
